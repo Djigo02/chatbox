@@ -1,0 +1,1 @@
+<div class="container mt-5 text-center h1 text-danger">Erreur 404</div>
